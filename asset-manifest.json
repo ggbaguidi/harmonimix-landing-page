@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/harmonimix-landing-page/static/css/main.9f8db835.css",
+    "main.js": "/harmonimix-landing-page/static/js/main.1d634bc4.js",
+    "static/media/d1.png": "/harmonimix-landing-page/static/media/d1.e2d1f81fb38e54ad201d.png",
+    "static/media/backgraphics.png": "/harmonimix-landing-page/static/media/backgraphics.e05d8e3687294dad4fdf.png",
+    "static/media/p 1.png": "/harmonimix-landing-page/static/media/p 1.81eb9c2ff77cfe135c80.png",
+    "static/media/d3.png": "/harmonimix-landing-page/static/media/d3.689cacfd46586408bb8b.png",
+    "static/media/d2.png": "/harmonimix-landing-page/static/media/d2.de8b91027c84b8494f78.png",
+    "static/media/d4.png": "/harmonimix-landing-page/static/media/d4.44f5884453e786ce1559.png",
+    "static/media/p 2.png": "/harmonimix-landing-page/static/media/p 2.a3ef04835c64eabead5c.png",
+    "static/media/logo.png": "/harmonimix-landing-page/static/media/logo.03cb4b88246963348e62.png",
+    "static/media/Mask Group 23.png": "/harmonimix-landing-page/static/media/Mask Group 23.f66074a1141e6b3f9f60.png",
+    "static/media/musical-notes.svg": "/harmonimix-landing-page/static/media/musical-notes.dd1ec5aeef9c779497fe.svg",
+    "static/media/Group 9.png": "/harmonimix-landing-page/static/media/Group 9.5bccd081c7491a34b65c.png",
+    "static/media/p 3.png": "/harmonimix-landing-page/static/media/p 3.0acd803d6a9d85973098.png",
+    "static/media/Group 4.png": "/harmonimix-landing-page/static/media/Group 4.c418bb2cc86f41b983cc.png",
+    "static/media/Group 2.png": "/harmonimix-landing-page/static/media/Group 2.15c32f9651f4022159d9.png",
+    "static/media/p 4.png": "/harmonimix-landing-page/static/media/p 4.fcc6fc8fbc64a172a475.png",
+    "static/media/compass.svg": "/harmonimix-landing-page/static/media/compass.aace1caf8d95680e32b9.svg",
+    "static/media/connected-people.svg": "/harmonimix-landing-page/static/media/connected-people.886b7db00d2dedd1789e.svg",
+    "static/media/sunrise-sunset.svg": "/harmonimix-landing-page/static/media/sunrise-sunset.f39950b190bec6ee9944.svg",
+    "index.html": "/harmonimix-landing-page/index.html",
+    "static/media/Group 8.svg": "/harmonimix-landing-page/static/media/Group 8.0026bfe9b10fe3069b42.svg",
+    "main.9f8db835.css.map": "/harmonimix-landing-page/static/css/main.9f8db835.css.map",
+    "main.1d634bc4.js.map": "/harmonimix-landing-page/static/js/main.1d634bc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f8db835.css",
+    "static/js/main.1d634bc4.js"
+  ]
+}
