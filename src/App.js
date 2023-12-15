@@ -19,7 +19,7 @@ function App() {
           <Route path="/about">
             <AboutSection />
           </Route>
-          <Route path="/">
+          <Route path="/harmonimix-landing-page">
             <Hero />
             <Experience />
             <FeaturesSection />
