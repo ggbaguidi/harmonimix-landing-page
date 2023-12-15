@@ -3,7 +3,7 @@ import Feature from './Feature';
 
 const FeaturesSection = () => {
   return (
-    <div className="experience flex flex-col items-center justify-start px-[5rem] bg-[#020917] h-[90rem] pt-[18rem] mt-[-10rem] relative z-[3] rounded-b-[5rem]">
+    <div className="experience flex flex-col items-center justify-start px-[5rem] bg-[#020917] h-[90rem] pt-[18rem] mt-[-10rem] relative z-[2] rounded-b-[5rem]">
     <h3 className="text-3xl font-bold mb-8">Embrace the Unexpected</h3>
     <section id="features" >
         <div className="feature-card">
