@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/harmonimix-landing-page/static/css/main.9f8db835.css",
-    "main.js": "/harmonimix-landing-page/static/js/main.1d634bc4.js",
+    "main.css": "/harmonimix-landing-page/static/css/main.d7a2662b.css",
+    "main.js": "/harmonimix-landing-page/static/js/main.8ff64d24.js",
     "static/media/d1.png": "/harmonimix-landing-page/static/media/d1.e2d1f81fb38e54ad201d.png",
     "static/media/backgraphics.png": "/harmonimix-landing-page/static/media/backgraphics.e05d8e3687294dad4fdf.png",
     "static/media/p 1.png": "/harmonimix-landing-page/static/media/p 1.81eb9c2ff77cfe135c80.png",
@@ -22,11 +22,11 @@
     "static/media/sunrise-sunset.svg": "/harmonimix-landing-page/static/media/sunrise-sunset.f39950b190bec6ee9944.svg",
     "index.html": "/harmonimix-landing-page/index.html",
     "static/media/Group 8.svg": "/harmonimix-landing-page/static/media/Group 8.0026bfe9b10fe3069b42.svg",
-    "main.9f8db835.css.map": "/harmonimix-landing-page/static/css/main.9f8db835.css.map",
-    "main.1d634bc4.js.map": "/harmonimix-landing-page/static/js/main.1d634bc4.js.map"
+    "main.d7a2662b.css.map": "/harmonimix-landing-page/static/css/main.d7a2662b.css.map",
+    "main.8ff64d24.js.map": "/harmonimix-landing-page/static/js/main.8ff64d24.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f8db835.css",
-    "static/js/main.1d634bc4.js"
+    "static/css/main.d7a2662b.css",
+    "static/js/main.8ff64d24.js"
   ]
 }
