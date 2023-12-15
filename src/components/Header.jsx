@@ -8,10 +8,12 @@ function Header() {
 
     <div className="header bg-[#081730] flex items-center justify-between px-[5rem] pt-[2.4rem] text-[0.8rem]">
         {/* LOGO */}
+        <a href="harmonimix-landing-page" rel="noopener noreferrer" className="logo w-[25%] h-[50%]">
         <img 
         src={require("../img/logo.png")}
         alt=""
-        className="logo w-[25%] h-[50%]"  />
+        onClick={() => {}}
+        className="logo w-[100%] h-[100%]"  /></a>
         
         {/* SIDE MENU */}
         <CenterMenu/>

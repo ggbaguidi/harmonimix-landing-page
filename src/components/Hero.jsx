@@ -2,17 +2,10 @@ import { React, useState } from "react";
 import DownloadAds from "./DownloadAds";
 import VisibilitySensor from "react-visibility-sensor";
 import { motion } from "framer-motion";
+import Back from "../img/background.jpg";
 
 function Hero() {
   const [elementIsVisible, setElementIsVisible] = useState(false);
-  const bg = {
-    true: {
-      left: "7rem",
-    },
-    false: {
-      left: "19rem",
-    },
-  };
   const musicPlayer = {
     true: {
       left: "295px",
@@ -42,14 +35,14 @@ function Hero() {
       onChange={(isVisible) => setElementIsVisible(isVisible)}
       minTopValue={300}
     >
-      <div className="wrapper bg-[#081730] flex items-center justify-between px-[5rem] rounded-b-[5rem] w-[100%] h-[35rem] relative z-[4]">
+      <div className="wrapper flex items-center justify-between px-[5rem] rounded-b-[5rem] w-[100%] h-[35rem] relative z-[4] bg-auto bg-no-repeat bg-center bg-cover" style={{"background-image": `url(${Back})`}}>
         {/* left side */}
         <div className="headings flex flex-col items-start justify-center h-[100%] text-[3rem]">
           <span>Your Soundtrack to Life</span>{" "}
           <span>
             <b>Discover Music that Feels <br /> Like You</b>
           </span>
-          <span className="text-[15px] text-[#525D6E]">
+          <span className="text-[15px] text-[#ffffff]">
             Unleash the power of personalized music recommendations.
             <br />
             Unlock a world of personalized music and embark on a journey of sonic self-discovery
@@ -62,14 +55,14 @@ function Hero() {
         </div>
         {/* right side */}
         <div className="images relative w-[50%]">
-          <motion.img
+          {/*<motion.img
             variants={bg}
             animate={`${elementIsVisible}`}
             transition={{ duration: 1, type: "ease-out" }}
             src={require("../img/backgraphics.png")}
             alt=""
             className="absolute top-[-8rem] left-[19rem]"
-          />
+          />*/}
           <img
             src={require("../img/p 1.png")}
             alt=""
