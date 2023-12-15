@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/harmonimix-landing-page/static/css/main.d7a2662b.css",
-    "main.js": "/harmonimix-landing-page/static/js/main.8ff64d24.js",
+    "main.css": "/harmonimix-landing-page/static/css/main.1fa159d9.css",
+    "main.js": "/harmonimix-landing-page/static/js/main.00f47e6e.js",
     "static/media/d1.png": "/harmonimix-landing-page/static/media/d1.e2d1f81fb38e54ad201d.png",
     "static/media/backgraphics.png": "/harmonimix-landing-page/static/media/backgraphics.e05d8e3687294dad4fdf.png",
+    "static/media/Guy_A_GBAGUIDI.jpg": "/harmonimix-landing-page/static/media/Guy_A_GBAGUIDI.1478b452b5314607de55.jpg",
     "static/media/p 1.png": "/harmonimix-landing-page/static/media/p 1.81eb9c2ff77cfe135c80.png",
     "static/media/d3.png": "/harmonimix-landing-page/static/media/d3.689cacfd46586408bb8b.png",
     "static/media/d2.png": "/harmonimix-landing-page/static/media/d2.de8b91027c84b8494f78.png",
@@ -22,11 +23,11 @@
     "static/media/sunrise-sunset.svg": "/harmonimix-landing-page/static/media/sunrise-sunset.f39950b190bec6ee9944.svg",
     "index.html": "/harmonimix-landing-page/index.html",
     "static/media/Group 8.svg": "/harmonimix-landing-page/static/media/Group 8.0026bfe9b10fe3069b42.svg",
-    "main.d7a2662b.css.map": "/harmonimix-landing-page/static/css/main.d7a2662b.css.map",
-    "main.8ff64d24.js.map": "/harmonimix-landing-page/static/js/main.8ff64d24.js.map"
+    "main.1fa159d9.css.map": "/harmonimix-landing-page/static/css/main.1fa159d9.css.map",
+    "main.00f47e6e.js.map": "/harmonimix-landing-page/static/js/main.00f47e6e.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7a2662b.css",
-    "static/js/main.8ff64d24.js"
+    "static/css/main.1fa159d9.css",
+    "static/js/main.00f47e6e.js"
   ]
 }
