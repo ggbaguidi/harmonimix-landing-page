@@ -33,7 +33,7 @@ const AboutSection = () => {
             </div>
             <ul className='flex justify-center'>
               <li className="text-[#E600FF] underline mt-[3rem] hover:cursor-pointer p-[20px]"><a href="https://www.linkedin.com/in/guy-ahonakpon-gbaguidi" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
-              <li className="text-[#E600FF] underline mt-[3rem] hover:cursor-pointer p-[20px]"><a href="https://web.facebook.com/g.a.gbaguidi" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+              <li className="text-[#E600FF] underline mt-[3rem] hover:cursor-pointer p-[20px]"><a href="https://github.com/ggbaguidi" target="_blank" rel="noopener noreferrer">GitHub</a></li>
               <li className="text-[#E600FF] underline mt-[3rem] hover:cursor-pointer p-[20px]"><a href="https://twitter.com/GuyGbaguidi" target="_blank" rel="noopener noreferrer">Twitter</a></li>
             </ul>
           </div>

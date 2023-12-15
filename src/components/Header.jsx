@@ -1,6 +1,6 @@
 import React from "react"
 import CenterMenu from "./CenterMenu"
-import Link from "react-router-dom"
+import { Link } from 'react-router-dom';
 
 function Header() {
   const buttonStyle = 
